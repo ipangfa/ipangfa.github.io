@@ -1,0 +1,1 @@
+﻿var textForPages = ["PASCA OBSERVASI     irfan fitriadi                            Wali Kelas                            Neil Tran                              anggota                        siswa kelas 6","","",""];
